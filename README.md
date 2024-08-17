@@ -1,1 +1,1 @@
-# Furniture-Web-Application
+# E-commerce-Furniture-Web-Application
